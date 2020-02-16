@@ -13,14 +13,14 @@
 ---
 
 ### 3. Summary
-Communicate with like-minded people and study achievements and failures, study web development, apply acquired knowledge and learn new things.
+Communicate with like-minded people, study achievements and failures, study web development, apply acquired knowledge and learn new things.
 
 ---
 
 ### 4. Skills:
 * Git
 * HTML
-* CSS 3
+* CSS
 * JS
 #### Tools:	
 * Figma
